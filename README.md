@@ -1,5 +1,3 @@
-Let's adjust the README to remove the reference to the `INSTALL.md` file and instead include basic setup instructions directly within the README.
-
 ---
 
 # __Inventory Management System__
